@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584529580187",
+    "firebase_url": "https://virtualschool-2ca1d.firebaseio.com",
+    "project_id": "virtualschool-2ca1d",
+    "storage_bucket": "virtualschool-2ca1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584529580187:android:a49876f27ba7e26b7ab63e",
+        "android_client_info": {
+          "package_name": "com.example.virtualschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584529580187-on4p994c3k4dj1i214c9hlup4qpnlsc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8bxXyLWm1IC4v6JePQj9FsylxaB-O0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584529580187-on4p994c3k4dj1i214c9hlup4qpnlsc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
