@@ -4,13 +4,13 @@ public class Student {
     private String name;
     private String gender;
     private String department;
-    private String imageURL;
+    private int imageResource;
 
-    public Student(String name, String gender, String department, String imageURL) {
+    public Student(String name, String gender, String department, int imageResource) {
         this.name = name;
         this.gender = gender;
         this.department = department;
-        this.imageURL = imageURL;
+        this.imageResource = imageResource;
     }
 
     public String getName() {
@@ -37,11 +37,11 @@ public class Student {
         this.department = department;
     }
 
-    public String getImageURL() {
-        return imageURL;
+    public int getImageResource() {
+        return imageResource;
     }
 
-    public void setImageURL(String imageURL) {
-        this.imageURL = imageURL;
+    public void setImageResource(int imageResource) {
+        this.imageResource = imageResource;
     }
 }
